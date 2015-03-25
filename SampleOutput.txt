@@ -1,0 +1,205 @@
+$ ./RunTestSimulation.py
+2014-01-01
+Total number of email addresses on day0 :138
+2014-01-01
+Total number of email addresses on day1 :286
+2014-01-02
+Total number of email addresses on day2 :475
+2014-01-03
+Total number of email addresses on day3 :629
+2014-01-04
+Total number of email addresses on day4 :758
+2014-01-05
+Total number of email addresses on day5 :869
+2014-01-06
+Total number of email addresses on day6 :1009
+2014-01-07
+Total number of email addresses on day7 :1181
+2014-01-08
+Total number of email addresses on day8 :1339
+2014-01-09
+Total number of email addresses on day9 :1518
+2014-01-10
+Total number of email addresses on day10 :1656
+2014-01-11
+Total number of email addresses on day11 :1774
+2014-01-12
+Total number of email addresses on day12 :1910
+2014-01-13
+Total number of email addresses on day13 :2046
+2014-01-14
+Total number of email addresses on day14 :2240
+2014-01-15
+Total number of email addresses on day15 :2354
+2014-01-16
+Total number of email addresses on day16 :2496
+2014-01-17
+Total number of email addresses on day17 :2614
+2014-01-18
+Total number of email addresses on day18 :2778
+2014-01-19
+Total number of email addresses on day19 :2915
+2014-01-20
+Total number of email addresses on day20 :3080
+2014-01-21
+Total number of email addresses on day21 :3277
+2014-01-22
+Total number of email addresses on day22 :3398
+2014-01-23
+Total number of email addresses on day23 :3558
+2014-01-24
+Total number of email addresses on day24 :3708
+2014-01-25
+Total number of email addresses on day25 :3887
+2014-01-26
+Total number of email addresses on day26 :4073
+2014-01-27
+Total number of email addresses on day27 :4236
+2014-01-28
+Total number of email addresses on day28 :4432
+2014-01-29
+Total number of email addresses on day29 :4614
+2014-01-30
+Total number of email addresses on day30 :4728
+2014-01-31
+Total number of email addresses on day31 :4907
+2014-02-01
+Total number of email addresses on day32 :5033
+2014-02-02
+Total number of email addresses on day33 :5144
+2014-02-03
+Total number of email addresses on day34 :5336
+2014-02-04
+Total number of email addresses on day35 :5451
+2014-02-05
+Total number of email addresses on day36 :5598
+2014-02-06
+Total number of email addresses on day37 :5781
+2014-02-07
+Total number of email addresses on day38 :5919
+2014-02-08
+Total number of email addresses on day39 :6119
+2014-02-09
+Total number of email addresses on day40 :6250
+2014-02-10
+Total number of email addresses on day41 :6418
+2014-02-11
+Total number of email addresses on day42 :6570
+2014-02-12
+Total number of email addresses on day43 :6700
+2014-02-13
+Total number of email addresses on day44 :6863
+2014-02-14
+Total number of email addresses on day45 :7048
+2014-02-15
+Total number of email addresses on day46 :7226
+2014-02-16
+Total number of email addresses on day47 :7337
+2014-02-17
+Total number of email addresses on day48 :7484
+2014-02-18
+Total number of email addresses on day49 :7611
+2014-02-19
+Total number of email addresses on day50 :7809
+2014-02-20
+Total number of email addresses on day51 :7973
+2014-02-21
+Total number of email addresses on day52 :8129
+2014-02-22
+Total number of email addresses on day53 :8317
+2014-02-23
+Total number of email addresses on day54 :8429
+2014-02-24
+Total number of email addresses on day55 :8562
+2014-02-25
+Total number of email addresses on day56 :8700
+2014-02-26
+Total number of email addresses on day57 :8817
+2014-02-27
+Total number of email addresses on day58 :8936
+2014-02-28
+Total number of email addresses on day59 :9039
+2014-03-01
+Total number of email addresses on day60 :9177
+2014-03-02
+Total number of email addresses on day61 :9302
+2014-03-03
+Total number of email addresses on day62 :9455
+2014-03-04
+Total number of email addresses on day63 :9629
+2014-03-05
+Total number of email addresses on day64 :9770
+2014-03-06
+Total number of email addresses on day65 :9927
+2014-03-07
+Total number of email addresses on day66 :10124
+2014-03-08
+Total number of email addresses on day67 :10239
+2014-03-09
+Total number of email addresses on day68 :10363
+2014-03-10
+Total number of email addresses on day69 :10562
+2014-03-11
+Total number of email addresses on day70 :10728
+2014-03-12
+Total number of email addresses on day71 :10902
+2014-03-13
+Total number of email addresses on day72 :11026
+2014-03-14
+Total number of email addresses on day73 :11180
+2014-03-15
+Total number of email addresses on day74 :11358
+2014-03-16
+
+*Top Domains this month with total hits ever recorded*
+
+[(u'huffingtonpost.com', 35)]
+[(u'boston.com', 25)]
+[(u'purevolume.com', 38)]
+[(u'tripadvisor.com', 28)]
+[(u'va.gov', 22)]
+[(u'163.com', 29)]
+[(u'wikispaces.com', 32)]
+[(u'wordpress.org', 34)]
+[(u'flickr.com', 28)]
+[(u'hibu.com', 26)]
+[(u'cornell.edu', 25)]
+[(u'digg.com', 28)]
+[(u'nhs.uk', 35)]
+[(u'parallels.com', 26)]
+[(u'goodreads.com', 25)]
+[(u'unc.edu', 32)]
+[(u'miibeian.gov.cn', 27)]
+[(u'gravatar.com', 29)]
+[(u'nature.com', 30)]
+[(u'typepad.com', 29)]
+[(u'biglobe.ne.jp', 26)]
+[(u'google.com.hk', 22)]
+[(u'ox.ac.uk', 30)]
+[(u'quantcast.com', 29)]
+[(u'techcrunch.com', 26)]
+[(u'odnoklassniki.ru', 26)]
+[(u'github.io', 29)]
+[(u'usgs.gov', 33)]
+[(u'gmpg.org', 25)]
+[(u'sohu.com', 36)]
+[(u'yolasite.com', 27)]
+[(u'nifty.com', 33)]
+[(u'army.mil', 30)]
+[(u'thetimes.co.uk', 31)]
+[(u'bravesites.com', 30)]
+[(u'cnet.com', 29)]
+[(u'wsj.com', 23)]
+[(u'slate.com', 24)]
+[(u'ihg.com', 25)]
+[(u'ebay.co.uk', 27)]
+[(u'mapquest.com', 35)]
+[(u'shinystat.com', 28)]
+[(u'alibaba.com', 27)]
+[(u'unblog.fr', 31)]
+[(u'reuters.com', 28)]
+[(u'github.com', 22)]
+[(u'dmoz.org', 26)]
+[(u'reference.com', 24)]
+[(u'gnu.org', 25)]
+[(u'chronoengine.com', 23)]
